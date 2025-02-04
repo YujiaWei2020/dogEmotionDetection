@@ -4,6 +4,11 @@
 
 
 TODO:
+Feature Engineering:
+Dog face detection, face contour, mouth highlight, resize each pics to uniform
+Motion detector
 
-1. Dog face detection, face contour, mouth highlight, resize each pics to uniform
-2.  
+
+Model:
+VGG -> transfer learning, find pre-trained results.
+
